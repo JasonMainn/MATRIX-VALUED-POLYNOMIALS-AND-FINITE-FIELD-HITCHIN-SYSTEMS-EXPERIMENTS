@@ -1,0 +1,61 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  MATRIX-VALUED-POLYNOMIALS-AND-FINITE-FIELD-HITCHIN-SYSTEMS-EXPERIMENTS
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Steven
+    email: steven.rayan@usask.ca
+    affiliation: University of Saskatchewan
+    family-names: Rayan
+  - given-names: Jason
+    email: mby810@usask.ca
+    family-names: Main
+    affiliation: University of Saskatchewan
+  - given-names: Anna
+    family-names: ' McQuillan'
+    email: rod498@mail.usask.ca
+    affiliation: University of Saskatchewan
+  - given-names: Jeremy
+    family-names: Jeremy Bell
+    email: cja237@mail.usask.ca
+    affiliation: University of Saskatchewan
+  - given-names: Pahul
+    family-names: ' Singh'
+    email: hst412@mail.usask.ca
+    affiliation: University of Saskatchwan
+  - given-names: Brandon
+    family-names: ' Gill'
+  - given-names: Nicole
+    family-names: Zolkavich
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/JasonMainn/MATRIX-VALUED-POLYNOMIALS-AND-FINITE-FIELD-HITCHIN-SYSTEMS-EXPERIMENTS
+repository-code: >-
+  https://github.com/JasonMainn/MATRIX-VALUED-POLYNOMIALS-AND-FINITE-FIELD-HITCHIN-SYSTEMS-EXPERIMENTS
+abstract: >-
+  This public Github repository contains Sage code used to
+  support the experimental findings in our article on
+  (twisted) matrix-valued polynomials over finite fields as
+  inspired by (complex) Hitchin systems.
+
+
+  Manuscript authors:
+
+
+  Jeremy Bell, Brandon Gill, Jason Main, Anna McQuillan,
+  Steven Rayan (supervising author), Pahul Singh, Nicole
+  Zolkavich
+keywords:
+  - Hitchin systems
+  - Matrix-valued polynomials
+  - Finite fields
+  - Experimental mathematics
+  - Nilpotent matrices
+  - Spectral curves
