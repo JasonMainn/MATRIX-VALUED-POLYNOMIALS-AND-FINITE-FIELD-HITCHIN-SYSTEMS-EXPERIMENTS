@@ -1,4 +1,4 @@
-# MATRIX-VALUED-POLYNOMIALS-AND-FINITE-FIELD-HITCHIN-SYSTEMS-EXPERIMENTS-
+# MATRIX-VALUED-POLYNOMIALS-AND-FINITE-FIELD-HITCHIN-SYSTEM-EXPERIMENTS
 
 This public Github repository contains Sage code used to support the experimental findings in our article on (twisted) matrix-valued polynomials over finite fields as inspired by (complex) Hitchin systems.
 
