@@ -4,10 +4,4 @@ This public Github repository contains Sage code used to support the experimenta
 
 Manuscript authors:
 
-Jeremy Bell
-Brandon Gill
-Jason Main
-Anna McQuillan
-Steven Rayan (supervising author)
-Pahul Singh
-Nicole Zolkavich
+Jeremy Bell, Brandon Gill, Jason Main, Anna McQuillan, Steven Rayan (supervising author), Pahul Singh, Nicole Zolkavich
